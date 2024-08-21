@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Football addict**
 
-- 🏫 I have a programming background from SMKS Raden Umar Said and Muria Kudus University
+- 🏫 **I have a programming background from SMKS Raden Umar Said and Muria Kudus University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
