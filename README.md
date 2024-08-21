@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufal002&label=Profile%20views&color=0e75b6&style=flat" alt="naufal002" /> </p>
 
 - 🌱 I’m currently learning **more programming language**
-
-- ⚡ Fun fact **Football addict**
-
 - 🏫 **I have a programming background from SMKS Raden Umar Said and Muria Kudus University**
 
 <h3 align="left">Connect with me:</h3>
