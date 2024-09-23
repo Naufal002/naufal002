@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **more programming language**
 - 🏫 **I have a programming background from SMKS Raden Umar Said and Muria Kudus University**
+- 🏫 **A computer science student at Muria Kudus University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
