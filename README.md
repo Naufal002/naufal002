@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning **more programming language**
 - 🏫 **I have a programming background from SMKS Raden Umar Said and Muria Kudus University**
 - 🏫 **A computer science student at Muria Kudus University**
+- Founder of Kasentra.naufaldev.dev
