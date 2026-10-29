@@ -6,5 +6,6 @@
 - 🌱 I’m currently learning **more programming language**
 - 🏫 **I have a programming background from SMKS Raden Umar Said and Muria Kudus University**
 - 🏫 **A computer science student at Muria Kudus University**
-- Founder of kasentra.naufaldev.dev <a href="kasentra.naufalddev.dev"><img width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/3192997a-9d91-483f-8586-4b2bc14ecc26" />
-</a>
+- Founder of kasentra.naufaldev.dev
+    <a href="kasentra.naufalddev.dev"><img width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/3192997a-9d91-483f-8586-4b2bc14ecc26" />
+    </a>
