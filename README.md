@@ -9,4 +9,5 @@
 - Founder of kasentra.naufaldev.dev
 
   <a href="https://kasentra.naufaldev.dev/"><img width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/3192997a-9d91-483f-8586-4b2bc14ecc26" />
+  </a> <a href="https://kasentra.naufaldev.dev/"><img width="50" height="50" alt="logo" src="https://github.com/user-attachments/assets/00072609-837f-45bb-91a3-72c0cf3b3445" />
   </a>
